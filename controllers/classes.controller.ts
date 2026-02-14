@@ -13,7 +13,7 @@ export default class ClassesController {
 
         return c.json({
             status: true,
-            message: "Data successfully retrieved",
+            message: "Data successfully retrievedd",
             data: classes,
         });
     }
